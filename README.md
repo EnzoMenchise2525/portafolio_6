@@ -10,6 +10,6 @@
 
 ### Demo Screenshots
 
-![Portfolio Desktop Demo](public/images/index_portafolio.png "Desktop Demo")
+![Portfolio Desktop Demo](public/image/index_portafolio.png "Desktop Demo")
 
 
